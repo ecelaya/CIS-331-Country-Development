@@ -16,7 +16,7 @@ The analysis includes:
 
 - `CIS_331_PROJECT.ipynb`: The full analysis code in Jupyter Notebook format.
 - `CIS 331 REPORT.pdf`: A comprehensive report with explanations, visualizations, and results.
-- - `world_bank_cleaned_dataset.csv` – Cleaned dataset used for modeling
+- `Dataset.csv` – Cleaned dataset used for modeling
 - `3D_Cluster_Plot.html` – Interactive 3D K-Means visualization
 
 ## 🔧 Technologies Used
@@ -25,7 +25,6 @@ The analysis includes:
 - Pandas & NumPy
 - Matplotlib & Seaborn
 - Scikit-learn
-- Jupyter Notebook
 
 ## 🌐 Data Source
 
