@@ -17,7 +17,7 @@ The analysis includes:
 - `CIS_331_PROJECT.ipynb`: The full analysis code in Jupyter Notebook format.
 - `CIS 331 REPORT.pdf`: A comprehensive report with explanations, visualizations, and results.
 - `Dataset.csv` – Cleaned dataset used for modeling
-- `3D_Cluster_Plot.html` – Interactive 3D K-Means visualization
+- `3D_plot.html` – Interactive 3D K-Means visualization
 
 ## 🔧 Technologies Used
 
